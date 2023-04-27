@@ -1,2 +1,4 @@
 if __name__ == "main"
-	return "meow meow"
+	print("helo world!")
+
+class class1
