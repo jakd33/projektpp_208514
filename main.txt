@@ -1,2 +1,2 @@
 if __name__ == "main"
-	return "miau miau"
+	return "meow meow"
